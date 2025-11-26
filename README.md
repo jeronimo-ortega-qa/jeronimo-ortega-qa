@@ -1,29 +1,27 @@
-### ¡Hola! Soy Jerónimo Ortega 👋
+#  Urban Routes - QA Portfolio
 
-Soy **QA Engineer en formación** apasionado por asegurar la calidad del software. Me especializo en encontrar errores antes de que lleguen al usuario final y disfruto documentando procesos para crear productos más robustos.
+Este repositorio centraliza la evidencia de pruebas realizadas a la aplicación de movilidad "Urban Routes".
 
-Actualmente estoy perfeccionando mis habilidades en el bootcamp de **TripleTen LatAm**, donde realizo pruebas manuales y automatizadas en entornos simulados reales.
+##  Módulos Probados (Sprints)
 
----
+### 🔹 Sprint 1: Interfaz y Geolocalización
+**Objetivo:** Validar la usabilidad de los mapas y formularios.
+*  `01_Reporte_Bugs_Interfaz.pdf`: Reporte de defectos de redirección y UI.
 
-#### 🛠️ Habilidades y Herramientas
+### 🔹 Sprint 2: Lógica de Negocio
+**Objetivo:** Verificar el algoritmo de tarifas por tiempo y distancia.
+*  `02_Matriz_Pruebas_Tarifas.pdf`: Casos de prueba para cálculo de costos.
+*  `02_Diagrama_Flujo_Logica.pdf`: Flujograma de la lógica de velocidad.
 
-* **Testing:** Pruebas Manuales, Reporte de Bugs, Regresión.
-* **Gestión:** Jira, TestRail, Trello.
-* **API Testing:** Postman.
-* **Documentación:** Creación de casos de prueba, Checklists.
-* **Idiomas:** Español (Nativo), Inglés (Profesional).
+### 🔹 Sprint 3: Pagos e Identidad
+**Objetivo:** Asegurar el registro de tarjetas y licencias.
+*  `03_Checklist_Pagos_Tarjetas.pdf`: Pruebas de límites y validación de datos.
+*  `03_Mapa_Mental_Licencia.pdf`: Desglose funcional del formulario de licencias.
 
----
-
-#### 🔭 En lo que estoy trabajando
-
-* Automatización de pruebas para e-commerce (Proyecto Académico).
-* Mejora continua de mis habilidades en **SQL** para validación de bases de datos.
-
----
-
-#### 📫 Conectemos
+## 🛠️ Stack
+* **Gestión:** Jira
+* **Técnicas:** Caja negra, Valores límite.
+* **Formatos:** Matrices de prueba en Excel, Diagramas en Draw.io.
 
 Si buscas a alguien curioso, detallista y listo para aprender, ¡hablemos!
 
